@@ -109,7 +109,7 @@ A fully Dockerized **red/blue cyber range**: a segmented enterprise network wher
 > **AI-Powered Intrusion Detection for Programmable Logic Controllers in Smart Grid and Industrial Energy Networks: A Reproducible Docker-Based Simulation Platform**
 > **Natali Soukh**, Zainab Taha, Passent Elkafrawy
 > *Intelligent Computing for Energy and Environment (ICEE)*, 2026
->
+
 > <br/>
 
 > **Toward PLC-Inclusive Lateral-Movement Detection: A Reproducible Purple-Team Framework for Converged IT/OT Networks**
