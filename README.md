@@ -110,6 +110,7 @@ A fully Dockerized **red/blue cyber range**: a segmented enterprise network wher
 > **Natali Soukh**, Zainab Taha, Passent Elkafrawy
 > *Intelligent Computing for Energy and Environment (ICEE)*, 2026
 > <br/>
+
 > **Toward PLC-Inclusive Lateral-Movement Detection: A Reproducible Purple-Team Framework for Converged IT/OT Networks**
 > L. Dalloul, **Natali Soukh**, Zainab Taha
 > *Manuscript in preparation*, 2026
